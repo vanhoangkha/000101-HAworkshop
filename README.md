@@ -1,4 +1,4 @@
-# Deploying Wordpress on AWS Cloud
+# Deploying WordPress on AWS Cloud
 
 > Designing highly available architectures on AWS.
 
@@ -8,7 +8,7 @@ A hands-on workshop from the [AWS First Cloud Journey](https://github.com/vanhoa
 
 ## Overview
 
-In this lab, you will learn and implement Wordpress deployment on AWS Cloud. Practice creating and installing Wordpress on EC2 Instance on public subnet connecting to Database Database in private subnet in VPC. This lab ensures that the Wordpress application has the ability to scale when encountering a large number of requests and has the ability to balance the load when more than one server is running. Database deployed Multi AZ provides the ability to ensure database availability when deployed.
+In this lab, you will learn and implement WordPress deployment on AWS Cloud. Practice creating and installing WordPress on EC2 Instance on public subnet connecting to Database Database in private subnet in VPC. This lab ensures that the WordPress application has the ability to scale when encountering a large number of requests and has the ability to balance the load when more than one server is running. Database deployed Multi AZ provides the ability to ensure database availability when deployed.
 
 Amazon CloudFront is a content delivery network (CDN) service built for high-performance, secure user experience.
 
